@@ -1,0 +1,74 @@
+Создаем 1 армию:
+ HealingTower №0 20 0 20
+ Healer №1 3 0 5
+ CavalryArcher №2 7 10 2
+ HealingTower №3 20 0 20
+ HealingTower №4 20 0 20
+ CavalryArcher №5 7 10 2
+ CavalryArcher №6 7 10 2
+ Warrior №7 5 2 6
+ AttackingTower №8 30 20 1
+ Healer №9 3 0 5
+ Cavalry №10 10 7 3
+ Cavalry №11 10 7 3
+ CavalryArcher №12 7 10 2
+ AttackingTower №13 30 20 1
+ Warrior №14 5 2 6
+ CavalryArcher №15 7 10 2
+ Archer №16 3 3 4
+ Healer №17 3 0 5
+ Archer №18 3 3 4
+ CavalryArcher №19 7 10 2
+ Warrior №20 5 2 6
+ HealingTower №21 20 0 20
+Создаем 2 армию:
+ HealingTower №0 20 0 20
+ Healer №1 3 0 5
+ CavalryArcher №2 7 10 2
+ HealingTower №3 20 0 20
+ HealingTower №4 20 0 20
+ CavalryArcher №5 7 10 2
+ CavalryArcher №6 7 10 2
+ Warrior №7 5 2 6
+ AttackingTower №8 30 20 1
+ Healer №9 3 0 5
+ Cavalry №10 10 7 3
+ Cavalry №11 10 7 3
+ CavalryArcher №12 7 10 2
+ AttackingTower №13 30 20 1
+ Warrior №14 5 2 6
+ CavalryArcher №15 7 10 2
+ Archer №16 3 3 4
+ Healer №17 3 0 5
+ Archer №18 3 3 4
+Итоговый размер 1 армии 22
+Итоговый размер 2 армии 19
+Происходит битва!!!
+ AttackingTower №13 30 20 1 участник битвы 2 армии  CavalryArcher №12 7 10 2 участник из 1 армии
+ CavalryArcher №5 7 10 2 участник битвы 2 армии  Cavalry №11 10 7 3 участник из 1 армии
+ CavalryArcher №15 7 10 2 участник битвы 2 армии  HealingTower №4 20 0 20 участник из 1 армии
+ Archer №18 3 3 4 участник битвы 1 армии,  HealingTower №0 20 0 20 участник из 2 армии! 
+ Cavalry №10 10 7 3 участник битвы 1 армии,  Warrior №7 5 2 6 участник из 2 армии! 
+2 воин убит!
+ Healer №17 3 0 5 участник битвы 1 армии,  CavalryArcher №12 7 10 2 участник из 2 армии! 
+ AttackingTower №13 30 20 1 участник битвы 2 армии  HealingTower №3 20 0 20 участник из 1 армии
+ CavalryArcher №15 7 10 2 участник битвы 2 армии  Warrior №14 5 2 6 участник из 1 армии
+1 воин убит!
+ AttackingTower №13 30 20 1 участник битвы 2 армии  HealingTower №0 20 0 20 участник из 1 армии
+ CavalryArcher №2 7 10 2 участник битвы 1 армии,  Healer №17 3 0 5 участник из 2 армии! 
+2 воин убит!
+ CavalryArcher №5 7 10 2 участник битвы 2 армии  Warrior №20 5 2 6 участник из 1 армии
+ Healer №1 3 0 5 участник битвы 2 армии  Healer №1 3 0 5 участник из 1 армии
+1 воин убит!
+ AttackingTower №8 30 20 1 участник битвы 1 армии,  CavalryArcher №5 7 10 2 участник из 2 армии! 
+2 воин убит!
+ CavalryArcher №15 7 10 2 участник битвы 2 армии  CavalryArcher №12 7 10 2 участник из 1 армии
+1 воин убит!
+ CavalryArcher №15 7 10 2 участник битвы 2 армии  HealingTower №21 20 0 20 участник из 1 армии
+ Cavalry №10 10 7 3 участник битвы 1 армии,  HealingTower №3 20 0 20 участник из 2 армии! 
+ CavalryArcher №6 7 10 2 участник битвы 1 армии,  AttackingTower №8 30 20 1 участник из 2 армии! 
+ Archer №16 3 3 4 участник битвы 2 армии  HealingTower №0 20 0 20 участник из 1 армии
+ AttackingTower №13 30 20 1 участник битвы 2 армии  HealingTower №21 10 0 20 участник из 1 армии
+ CavalryArcher №6 7 10 2 участник битвы 2 армии  HealingTower №21 10 0 20 участник из 1 армии
+ AttackingTower №13 30 20 1 участник битвы 2 армии  CavalryArcher №15 7 10 2 участник из 1 армии
+ Archer №1

@@ -1,0 +1,12 @@
+c:\users\s105user11\documents\visual studio 2015\Projects\model\model\bin\Debug\model.exe.config
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model\model\bin\Debug\model.exe
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model\model\bin\Debug\model.pdb
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model\model\obj\Debug\model.exe
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model\model\obj\Debug\model.pdb
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\bin\Debug\model.exe.config
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\obj\Debug\model.exe
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\obj\Debug\model.pdb
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\bin\Debug\model.exe
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\bin\Debug\model.pdb
+C:\Users\s105user11\Documents\Visual Studio 2015\Projects\model - копия\model\obj\Debug\model.csprojResolveAssemblyReference.cache
